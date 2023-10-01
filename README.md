@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fatma Ashraf</h1>
 <h3 align="center">.NET full stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on **C# assignments**
+- 🔭 I’m currently working on **CRUD Operations MVC .Net 7**
 
-- 🌱 I’m currently learning **c#**
-
-- 👯 I’m looking to collaborate on **E-commerce website**
-
-- 🤝 I’m looking for help with **Examination system database**
+- 🌱 I’m currently learning **Angular 10**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/fatma_ghazouley](https://www.behance.net/fatma_ghazouley)
 
