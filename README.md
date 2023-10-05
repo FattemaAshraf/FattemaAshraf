@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/fatma_ghazouley](https://www.behance.net/fatma_ghazouley)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/fatma-ghazouley-b57279103](https://www.linkedin.com/in/fatma-ghazouley-b57279103)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/fatma-ashraf-b57279103](https://www.linkedin.com/in/fatma-ashraf-b57279103)
 
 - 💬 Ask me about **java script and Ecma script 6**
 
