@@ -1,7 +1,7 @@
 <h1 align="center"> Fatma Ashraf </h1>
 <h3 align="center">.NET full stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on **CRUD Operations MVC .Net 7**
+- 🔭 I’m currently working on **CRUD Operations MVC .Net 7 & Entity Framework Core**
 
 - 🌱 I’m currently learning **Angular 10**
 
