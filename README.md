@@ -1,11 +1,9 @@
 <h1 align="center"> Fatma Ashraf </h1>
 <h3 align="center">.NET full stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on **CRUD Operations MVC .Net 7 & Entity Framework Core**
+- 🔭 I’m currently working on **Food App using Angular 16**
 
-- 🌱 I’m currently learning **Angular 10**
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/fatma_ghazouley](https://www.behance.net/fatma_ghazouley)
+- 🌱 I’m currently learning **Tailwind CSS & Angular**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/fatma-ashraf-b57279103](https://www.linkedin.com/in/fatma-ashraf-b57279103)
 
