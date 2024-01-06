@@ -1,5 +1,5 @@
 <h1 align="center"> Fatma Ashraf </h1>
-<h3 align="center">.NET full stack developer from Egypt</h3>
+<h3 align="center">Full Stack .NET full stack developer using Angular from Egypt</h3>
 
 - 🔭 I’m currently working on **Hotel web using Angular 16**
 
